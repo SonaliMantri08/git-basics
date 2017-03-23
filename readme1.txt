@@ -1,0 +1,1 @@
+Read me file created to check whether notepad++ is set as text editor or not.
